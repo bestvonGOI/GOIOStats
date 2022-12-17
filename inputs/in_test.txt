@@ -1,0 +1,4 @@
+0,Engineer,FSK,1,Pilot,Moonshine,1
+13,Engineer,FSK,1
+26,Engineer,FSK,1
+39,Engineer,FSK,1,Pilot,Moonshine,0

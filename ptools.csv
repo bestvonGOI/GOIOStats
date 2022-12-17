@@ -1,0 +1,5 @@
+Tool,Thrust,Damage,ADrag,LDrag,LaDrag,Duration
+Claw,1.5,13,0.35,2,1,0
+Kerosene,2.5,10,3,2,1,0
+Moonshine,3,30,10,0.5,1,0
+Driftsail,0.5,0,0.23,0.1,0,3

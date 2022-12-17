@@ -1,0 +1,8 @@
+Tool,Instant_Repair,OT_Repair,Rebuild,Time_active,Time_cooldown,Fire_removal,Buff
+FSK,1,24,3,15,8,0,0
+Mallet,250,0,2,0,9,0,0
+Wrench,120,0,4,0,5,1,0
+Spanner,40,0,5,0,2,0,0
+Extinguisher,0,0,0,4,2,20,0
+Chemspray,0,0,0,25,5,3,0
+DynaBuff,0,0,0,0,0,0,1
